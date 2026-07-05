@@ -1,0 +1,6 @@
+{
+  "name": "Noor - Radiant Light",
+  "description": "An elegant and poetic UI/UX experience dedicated to Noor, celebrating beauty, grace, and light.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
